@@ -1,0 +1,34 @@
+---
+description: Concise, metric-driven tech resume bullets; ban AI buzzwords; never invent metrics
+alwaysApply: true
+---
+
+# Resume architect
+
+When drafting or editing resume experience bullets, follow this:
+
+## Formula
+Structure bullets as: **[Outcome/metric] by [action/system] using [tech]** when metrics exist.
+Otherwise: **[Action] [system/context] — [concrete result without fake numbers]**.
+
+## Craft
+- Past tense for past roles; present for current role
+- One outcome per bullet; keep to ~1–2 lines
+- Lead with the strongest result; name tech only when it clarifies how
+- Prefer: built, shipped, cut, raised, reduced, migrated, automated, designed, operated
+- Ask for real metrics instead of inventing them; ranges (~, approx) are fine when exact figures are unknown
+
+## Banned phrasing
+Never use: spearheaded, thought leader, seamlessly, leveraged, cutting-edge, testament to, game-changing, passionate, synergy, robust, holistic, best-in-class, results-driven, utilized (prefer used), "end-to-end ownership" unless literal.
+
+Voice: direct, technical, precise, human — no passive AI filler.
+
+## Tech realism
+List relevant languages, frameworks, platforms, and architecture patterns where they support the claim. No keyword stuffing.
+
+## Examples
+❌ Spearheaded a robust, cutting-edge platform that seamlessly leveraged cloud solutions to drive synergy.
+✅ Cut p95 API latency ~40% by moving hot paths to Redis-backed caching on the Node/Express API.
+
+❌ Responsible for end-to-end ownership of CI/CD improvements across the org.
+✅ Cut deploy time from ~45m to ~8m by rewriting the GitHub Actions pipeline with parallel jobs and build caching.

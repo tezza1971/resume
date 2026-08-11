@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Terence Kearns",
+    "label": "Solutions Architect",
+    "email": "terence@ndx.au",
+    "url": "https://resume.terencekearns.com",
+    "summary": "Solutions Architect and co-founder with three decades studying and building information systems. Designs and ships software that maps business workflows to durable systems—from campus-scale media platforms to multi-cloud product stacks. Currently building NDX’s dual track: grassroots micro-apps and Sentinel BI / SBI Dashboard consultancy.",
+    "location": {
+      "city": "Northern Rivers",
+      "region": "NSW",
+      "countryCode": "AU"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "tezza1971",
+        "url": "https://github.com/tezza1971/resume"
+      },
+      {
+        "network": "NDX",
+        "url": "https://ndx.video"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "NDX Pty Ltd",
+      "position": "Co-Founder",
+      "location": "Melbourne, VIC",
+      "url": "https://ndx.video",
+      "startDate": "2023-10",
+      "summary": "Software solutions for grassroots and enterprise markets on a multi-cloud stack.",
+      "highlights": [
+        "Ship Work Hours Online (Deno Fresh), a mobile-first time and multiplier calculator, as a pre-beta grassroots wedge toward beta and monetization.",
+        "Build Sentinel BI for internal use and package SBI Dashboard consultancy so managers get an at-a-glance org view that opens the door to deeper Sentinel orchestration.",
+        "Operate a multi-cloud delivery stack—self-hosted Kubernetes, Cloudflare Workers, and AWS—for software aimed at both grassroots and enterprise markets."
+      ]
+    },
+    {
+      "name": "University of Canberra",
+      "position": "Software Analyst",
+      "location": "Canberra, ACT",
+      "startDate": "2002",
+      "endDate": "2007",
+      "summary": "Campus systems including lecture streaming, data warehouse integration, and policy document management.",
+      "highlights": [
+        "Built the campus Lecture Streaming System (2003): automated livestream and video archive with a lecturer web UI, enrollment-aware student portal views, and data-warehouse feeds.",
+        "Ran capture on 7 on-premise hosts (4 video cards each) wired into lecture halls; wrote a C#/.NET central server (“Snow White”) and Windows services that drove Windows Media Encoder state machines on each host, plus CLI archive jobs.",
+        "Built the university Policy database, a custom document management app on a bespoke XML stack (XAO PHP), with substantial XML/XSLT work across university systems."
+      ]
+    },
+    {
+      "name": "Australian Electrical and Electronics Manufacturers Association (AEEMA)",
+      "position": "Webmaster / IT",
+      "location": "Canberra area",
+      "startDate": "1998",
+      "endDate": "2002",
+      "highlights": [
+        "Built a database-driven website and CMS in ColdFusion before off-the-shelf CMS products were common."
+      ]
+    },
+    {
+      "name": "Department of Defence",
+      "position": "Australian Army Webmaster (DoD contractor)",
+      "location": "Russell Offices, Canberra, ACT",
+      "startDate": "1998",
+      "endDate": "2002",
+      "highlights": [
+        "Built and graphically designed the main Australian Army website; coordinated unit sites and liaised with their creators.",
+        "Oversaw implementation of Defence’s first corporate CMS (ASP.NET) delivered with an external Brisbane web studio.",
+        "Applied SGML and early XML in a documents-focused Defence department while owning ongoing Army web delivery before and after the CMS."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Canberra",
+      "area": "Industrial Design",
+      "studyType": "Bachelor",
+      "startDate": "1992",
+      "endDate": "1997"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["Go", "PHP", "Lua", "HTML/CSS/JavaScript", "XML/XSLT", "C#/.NET"]
+    },
+    {
+      "name": "Frameworks / platforms",
+      "keywords": ["Astro", "Deno Fresh", "Cloudflare Workers", "ColdFusion"]
+    },
+    {
+      "name": "Cloud / Infra",
+      "keywords": ["Cloudflare", "Kubernetes", "Linux", "Caddy", "Tailscale", "AWS"]
+    },
+    {
+      "name": "Data",
+      "keywords": ["PostgreSQL", "SQLite", "database architecture"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["GitHub", "1Password (agent-driven)", "Harness", "Agentic AI"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Work Hours Online",
+      "description": "Mobile-first time and multiplier calculator (Deno Fresh) for sole traders and small businesses; NDX grassroots wedge; currently pre-beta.",
+      "keywords": ["Deno Fresh", "NDX"]
+    },
+    {
+      "name": "XAO PHP",
+      "description": "Open-source XML application framework used as the foundation for custom document and web systems (including the UC Policy database).",
+      "url": "https://xao-php.sourceforge.net/ctrl.php@op=home.html",
+      "keywords": ["PHP", "XML", "XSLT"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ITIL Foundation Certificate in IT Service Management",
+      "issuer": "ITIL (while at University of Canberra)"
+    }
+  ],
+  "meta": {
+    "workPreferences": {
+      "remote": true,
+      "openToWork": true,
+      "citizenship": "Australian",
+      "workAuthorization": "Australian citizen"
+    }
+  }
+}
