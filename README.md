@@ -2,7 +2,7 @@
 
 Public source of truth for **Terence Kearns** — Solutions Architect / Co-Founder, NDX Pty Ltd.
 
-ATS-friendly markdown plus a structured JSON twin. Intended feed for [resume.terencekearns.com](https://resume.terencekearns.com) (Cloudflare Worker + Astro, not built yet). Company stand-in link: [ndx.video](https://ndx.video).
+ATS-friendly markdown plus a structured JSON twin. Live site: [resume.terencekearns.com](https://resume.terencekearns.com) (Astro on Cloudflare Workers). Company stand-in link: [ndx.video](https://ndx.video).
 
 ## Source files
 
@@ -29,11 +29,9 @@ Edit both when facts change. Prefer real metrics; never invent numbers.
 
 Invoke the skill with **quiz-me** / “build resume from scratch”.
 
-## Planned site
+## Website
 
-1. Host this repo publicly
-2. Cloudflare Worker (Astro) renders `resume.md`
-3. Site links back here as the canonical edit source
+Rendered at [resume.terencekearns.com](https://resume.terencekearns.com) by the sibling repo [`tezza1971/resume-website`](https://github.com/tezza1971/resume-website) (Astro on Cloudflare Workers). That Worker fetches this repo’s public raw [`resume.md`](https://raw.githubusercontent.com/tezza1971/resume/main/resume.md) and links back here as the edit source.
 
 ## Contact
 

@@ -31,9 +31,19 @@
       "startDate": "2023-10",
       "summary": "Software solutions for grassroots and enterprise markets on a multi-cloud stack.",
       "highlights": [
-        "Ship Work Hours Online (Deno Fresh), a mobile-first time and multiplier calculator, as a pre-beta grassroots wedge toward beta and monetization.",
-        "Build Sentinel BI for internal use and package SBI Dashboard consultancy so managers get an at-a-glance org view that opens the door to deeper Sentinel orchestration.",
+        "Ship Work Hours Online (Deno Fresh), a mobile-first time and multiplier calculator, currently in pre-beta as the grassroots product wedge.",
+        "Run Sentinel BI internally and package SBI Dashboard consultancy so managers get an at-a-glance org view that opens into deeper Sentinel orchestration.",
         "Operate a multi-cloud delivery stack—self-hosted Kubernetes, Cloudflare Workers, and AWS—for software aimed at both grassroots and enterprise markets."
+      ]
+    },
+    {
+      "name": "Independent practice",
+      "position": "Independent practice",
+      "startDate": "2007",
+      "endDate": "2023",
+      "summary": "Creative practice outside the Solutions Architect target.",
+      "highlights": [
+        "Independent creative practice (photography/videography); omitted from detail as outside the Solutions Architect target."
       ]
     },
     {
@@ -51,7 +61,7 @@
     },
     {
       "name": "Australian Electrical and Electronics Manufacturers Association (AEEMA)",
-      "position": "Webmaster / IT",
+      "position": "Webmaster / IT (concurrent with DoD contract)",
       "location": "Canberra area",
       "startDate": "1998",
       "endDate": "2002",
@@ -88,7 +98,7 @@
     },
     {
       "name": "Frameworks / platforms",
-      "keywords": ["Astro", "Deno Fresh", "Cloudflare Workers", "ColdFusion"]
+      "keywords": ["Astro", "Deno Fresh", "Cloudflare Workers"]
     },
     {
       "name": "Cloud / Infra",
@@ -100,7 +110,7 @@
     },
     {
       "name": "Tools",
-      "keywords": ["GitHub", "1Password (agent-driven)", "Harness", "Agentic AI"]
+      "keywords": ["GitHub", "Harness"]
     }
   ],
   "projects": [
