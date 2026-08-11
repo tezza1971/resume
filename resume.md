@@ -38,10 +38,10 @@ Australian Electrical and Electronics Manufacturers Association (AEEMA) | Canber
 - Built a database-driven website and CMS in ColdFusion before off-the-shelf CMS products were common.
 
 ### Australian Army Webmaster (DoD contractor)
-Department of Defence | Russell Offices, Canberra, ACT | 1998 – 2002
+Department of Defence — Defense Publishing Systems (DPS) | Russell Offices, Canberra, ACT | 1998 – 2002
 - Built and graphically designed the main Australian Army website; coordinated unit sites and liaised with their creators.
 - Oversaw implementation of Defence’s first corporate CMS (ASP.NET) delivered with an external Brisbane web studio.
-- Applied SGML and early XML in a documents-focused Defence department while owning ongoing Army web delivery before and after the CMS.
+- Owned ongoing Army web delivery before and after the CMS while based in DPS, where I learned SGML and early XML publishing concepts.
 
 ## Projects
 
