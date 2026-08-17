@@ -1,5 +1,5 @@
 # Terence Kearns
-Northern Rivers, NSW, Australia | terence@ndx.au | https://resume.terencekearns.com | https://ndx.video | https://github.com/tezza1971/resume
+Northern Rivers, NSW, Australia | terence@ndx.au | https://resume.terencekearns.com | https://ndx.au | https://github.com/tezza1971/resume
 
 ## Summary
 Solutions Architect and co-founder with three decades studying and building information systems. Designs and ships software that maps business workflows to durable systems—from campus-scale media platforms to multi-cloud product stacks. Currently building NDX’s dual track: grassroots micro-apps and Sentinel BI / SBI Dashboard consultancy.
@@ -7,13 +7,13 @@ Solutions Architect and co-founder with three decades studying and building info
 ## Skills
 **Languages:** Go, PHP, Lua, HTML/CSS/JavaScript, XML/XSLT, C#/.NET
 
-**Frameworks / platforms:** Astro, Deno Fresh, Cloudflare Workers
+**Frameworks / platforms:** Astro, Deno Fresh, Cloudflare Workers, NDX Sentinel
 
-**Cloud / Infra:** Cloudflare, Kubernetes, Linux, Caddy, Tailscale, AWS
+**Cloud / Infra:** Cloudflare, Kubernetes, Linux, Caddy, Tailscale, AWS, Docker, Proxmox
 
 **Data:** PostgreSQL, SQLite, database architecture
 
-**Tools:** GitHub, Harness
+**Tools:** GitHub, AI agents, Linux, Containers (Docker/Proxmox)
 
 ## Experience
 
