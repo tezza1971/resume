@@ -13,7 +13,7 @@ Solutions Architect and co-founder with three decades studying and building info
 
 **Data:** PostgreSQL, SQLite, database architecture
 
-**Tools:** GitHub, AI agents, Linux, Containers (Docker/Proxmox)
+**Tools:** GitHub, AI agents, Linux, Containers (Docker/Proxmox), SSH, 1Password CLI
 
 ## Experience
 
